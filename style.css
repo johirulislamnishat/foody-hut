@@ -48,6 +48,7 @@ h2{
 
 }
 #person-id{
+    margin-left: 50px;
     height: 536px;
     width: 338px;
 }
@@ -77,8 +78,6 @@ section.sec-3 h2 {
     margin: auto;
 }
 .social-bar-2{
-    
-    
     padding: 40px;
     box-shadow: 0px 2px 20px rgba(116, 114, 113, 0.5);
     border-radius: 30px;
@@ -98,16 +97,32 @@ section.sec-3 h2 {
 .social-bar-2item {
     margin: auto;
 }
+.cover h3{
+    text-align: left;
+    padding: 10px;
+}
+.cover p{
+    text-align: left;
+    padding: 10px;
+}
 
 #txt-align{
     margin-top: 65px;
     text-align: center;
 }
+.align01 {
+    margin-left: 200px;
+}
+
 #food-menu{
     margin-top: 40px;
     background-image: url(images/7.png);
     background-repeat: no-repeat;
     background-size: 100% 600px;
+}
+.menu-font-size{
+    font-size: 26px;
+    margin-top: 40px;
 }
 
 #ash-color{
