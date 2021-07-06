@@ -82,7 +82,7 @@ section.sec-3 h2 {
     padding: 40px;
     box-shadow: 0px 2px 20px rgba(116, 114, 113, 0.5);
     border-radius: 30px;
-    margin-top: 20px;
+    margin-top: 65px;
     width: 90%;
 
 }
@@ -100,9 +100,11 @@ section.sec-3 h2 {
 }
 
 #txt-align{
+    margin-top: 65px;
     text-align: center;
 }
 #food-menu{
+    margin-top: 40px;
     background-image: url(images/7.png);
     background-repeat: no-repeat;
     background-size: 100% 600px;
