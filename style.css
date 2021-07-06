@@ -1,0 +1,99 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+h1{
+    font-size: 50px;
+    color: #575757;
+
+}
+h2{
+    font-size: 40px;
+}
+.header{
+    text-decoration: none;
+    width: 100%;
+    display: block;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 0px 2px rgba(116, 114, 113, 0.5);
+
+}
+.skip-color{
+    color: #FBA24F;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 10px;
+}
+.half-wedth{
+    width: 50%;
+    padding: 2%;
+    height: 800px;
+}
+.half-wedth img{
+    width: 80%;
+    padding: 3%;
+}
+.order-btn{
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 40px;
+    color: white;
+    position: relative;
+    top: 20px;
+
+    /* gradient */
+
+    background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
+    box-shadow: 0px 2px 30px rgba(252, 143, 73, 0.5);
+    border-radius: 100px;
+}
+
+#person-sec{
+    background-image: url(images/Background.jpg);
+    background-repeat: no-repeat;
+  background-size: 100% 600px;
+
+}
+#person-id{
+    height: 536px;
+    width: 338px;
+}
+.sec-3{
+    text-align: center;
+}
+.cover{
+    display: flex;
+}
+.social-bar{
+    
+    align-items: center;
+    padding: 70px;
+    box-shadow: 0px 2px 20px rgba(116, 114, 113, 0.5);
+    border-radius: 30px;
+
+}
+#txt-align{
+    text-align: center;
+}
+#food-menu{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-size: 100% 600px;
+}
+
+#ash-color{
+    color: rgb(218, 49, 49);
+}
+footer p{
+    color: white;
+}
+footer{
+    text-align: center;
+    padding: 70px;
+    background: #0B0D17;
+}
+
