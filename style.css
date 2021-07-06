@@ -60,6 +60,25 @@ h2{
 .cover{
     display: flex;
 }
+.social-bar-item {
+    box-shadow: 2px 2px 2px 2px silver;
+    margin: 34px;
+    text-align: center;
+    border-radius: 25px;
+}
+.social-bar-item img {
+    padding: 20px 10px;
+    border-radius: 41px;
+}
+section.sec-3 p {
+    width: 50%;
+    padding: 20px;
+    margin: auto;
+}
+section.sec-3 h2 {
+    width: 50%;
+    margin: auto;
+}
 .social-bar-2{
     
     align-items: center;
